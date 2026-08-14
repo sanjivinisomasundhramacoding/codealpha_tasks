@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_csv("books.csv")
 
 # Display first 5 rows
-print("First 5 rows:")
+print("First 5 rows:") 
 print(df.head())
 
 # Display dataset information
